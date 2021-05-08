@@ -2,7 +2,7 @@
   "dependencies": {},
   "devDependencies": {
     "@material/menu": "^0.30.0",
-    "canvas": "^1.6.9",
+    "canvas": "^1.6.11",
     "hyperform": "^0.9.9",
     "jsdom": "^11.6.2",
     "material-components-web": "^0.28.0",
